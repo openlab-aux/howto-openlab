@@ -6,3 +6,4 @@ Hier sammeln wir Anleitungen und HowTos, die für das OpenLab relevant sind.
 ### Infrastruktur
 
   * [Was tun, wenn Infrastruktur kaputt ist?](infrastruktur/infrastruktur-kaputt-was-tun.md)
+  * [Getränkeeinkauf](infrastruktur/getraenke.md)
