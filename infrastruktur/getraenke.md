@@ -10,11 +10,11 @@ Nimm dir ausreichende monetäre Mittel aus der Getränkekasse, plane dabei auch 
 
 ## 3. Einkaufen
 
-Der Getränkemarkt "Sobi" in der Eichleitnerstraße liegt dem Labor am nähesten und hat das meiste Benötigte im Sortiment. Stelle beim Einkaufen sicher, dass das Labor mindestens einen Kasten aus folgenden Getränkekategorien hat: Alkohol- und Koffeinfrei, Alkoholfrei, Alkohlhaltig.
+Der Getränkemarkt "Sobi" in der Eichleitnerstraße liegt dem Labor am nähesten und hat das meiste Benötigte im Sortiment. Stelle beim Einkaufen sicher, dass das Labor mindestens einen Kasten aus folgenden Getränkekategorien hat: Alkohol- und Koffeinfrei, Alkoholfrei, Alkohlhaltig. Erfahrungsgemäss wird gerade von alkohol- und koffeinfreien Getränken zu wenig eingekauft.
 
 ## 4. Die Getränke in das Labor schaffen
 
-Schnapp dir untätige Laboranten und trag die Kästen hoch. Fülle nach Möglichkeit den Kühlschrank direkt mit den frisch erworbenen Erfrischungsgetränken auf.
+Schnapp dir untätige Laboranten und trag die Kästen hoch. Fülle nach Möglichkeit den Kühlschrank direkt mit den frisch erworbenen Erfrischungsgetränken auf bzw. verpflichte jemanden.
 
 ## 5. Job done
 
