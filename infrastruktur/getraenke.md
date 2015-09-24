@@ -27,8 +27,8 @@ Preis und Pfand für jeweils einen Kasten.
 | Kategorie | Name | Preis | Pfand |
 |:----------|:-----|------:|------:|
 | Alkohol- und Koffeinfrei | Brunnthaler Limette | 6,49 | 3,10 |
+| Alkohol- und Koffeinfrei | Schweppes Ginger Ale | 7,99 | 2,40 |
 | Alkohol- (und Koffeinfrei) | Brunnthaler Mischkiste | 6,99 | 3,10 |
-| Alkoholfrei | Schweppes Ginger Ale | 7,99 | 2,40 |
 | Alkoholfrei | Riegele Spezi Original | 8,49 | 3,10 |
 | Alkoholfrei | Oettinger Mate Cola | 9,96 | 3,42 |
 | Alkoholfrei | Loscher Club Mate | 13,99 | 4,50 |
